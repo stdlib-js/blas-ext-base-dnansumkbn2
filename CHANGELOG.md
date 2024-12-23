@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-01)
+## Unreleased (2024-12-23)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
 -   [`fca01a0`](https://github.com/stdlib-js/stdlib/commit/fca01a0a8a63b87834a8beb6a4a698b8c6f7699e) - **test:** achieve 100% test coverage for `blas/ext/base/dnansumkbn2` [(#3105)](https://github.com/stdlib-js/stdlib/pull/3105) _(by Neeraj Pathak)_
 -   [`dc4b7b1`](https://github.com/stdlib-js/stdlib/commit/dc4b7b138a07ebbc5250fd7580ca758db7803875) - **feat:** add C `ndarray` API and refactor `blas/ext/base/dnansumkbn2` [(#3000)](https://github.com/stdlib-js/stdlib/pull/3000) _(by Muhammad Haris, Athan Reines, Philipp Burckhardt)_
 
@@ -78,7 +79,7 @@ A total of 4 people contributed to this release. Thank you to the following cont
 -   [`659f752`](https://github.com/stdlib-js/stdlib/commit/659f752db18317bf5fc237fdbcad0d74b61e1ed9) - **style:** add missing spaces _(by Philipp Burckhardt)_
 -   [`ceb4943`](https://github.com/stdlib-js/stdlib/commit/ceb494351d42c2505e559a2c8aad9a120c76d0db) - **docs:** remove comments _(by Athan Reines)_
 -   [`3080f03`](https://github.com/stdlib-js/stdlib/commit/3080f032a477cbd046b4201d7ffdd407c9d93816) - **chore:** fix by filling arrays with NaNs again _(by Philipp Burckhardt)_
--   [`6246c5d`](https://github.com/stdlib-js/stdlib/commit/6246c5dcbe7163afe809a80ce221a712ea56772d) - **refactor:** update `blas/ext/base/dnansumkbn2` to follow current project conventions _(by Suraj kumar, Philipp Burckhardt)_
+-   [`6246c5d`](https://github.com/stdlib-js/stdlib/commit/6246c5dcbe7163afe809a80ce221a712ea56772d) - **refactor:** update `blas/ext/base/dnansumkbn2` to follow current project conventions _(by Suraj Kumar, Philipp Burckhardt)_
 
 </details>
 
@@ -94,7 +95,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 -   Athan Reines
 -   Philipp Burckhardt
--   Suraj kumar
+-   Suraj Kumar
 
 </section>
 
