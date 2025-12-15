@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-07-14)
+## Unreleased (2025-12-15)
 
 <section class="features">
 
@@ -46,7 +46,8 @@ A total of 3 issues were closed in this release:
 
 <details>
 
--   [`3192ef5`](https://github.com/stdlib-js/stdlib/commit/3192ef5e908c2ac107edf9ac4a4c92bd2997aa67) - **chore:** fix C lint errors [(#7646)](https://github.com/stdlib-js/stdlib/pull/7646) _(by GeoDaoyu)_
+-   [`b4642cd`](https://github.com/stdlib-js/stdlib/commit/b4642cd82a1263bef638e317f251008053a10308) - **bench:** refactor to use dynamic memory allocation in `blas/ext/base/dnansumkbn2` [(#8935)](https://github.com/stdlib-js/stdlib/pull/8935) _(by Krishna Awasthi)_
+-   [`3192ef5`](https://github.com/stdlib-js/stdlib/commit/3192ef5e908c2ac107edf9ac4a4c92bd2997aa67) - **chore:** fix C lint errors [(#7646)](https://github.com/stdlib-js/stdlib/pull/7646) _(by Geo Daoyu)_
 -   [`b7ebe14`](https://github.com/stdlib-js/stdlib/commit/b7ebe14a38ddc3ccce67834db16835f420431494) - **feat:** add `blas/ext/base/wasm/dnansumkbn2` [(#5735)](https://github.com/stdlib-js/stdlib/pull/5735) _(by Shabareesh Shetty, Athan Reines, JoyBoy, stdlib-bot)_
 -   [`38a7900`](https://github.com/stdlib-js/stdlib/commit/38a7900a08f364a782e3cc6d0f712dba101983d7) - **fix:** use correct return value _(by Athan Reines)_
 -   [`bf4258f`](https://github.com/stdlib-js/stdlib/commit/bf4258f3cff7b37d00386b15df156305553631ab) - **fix:** update implementation to preserve signed zeros _(by Athan Reines)_
@@ -66,10 +67,11 @@ A total of 3 issues were closed in this release:
 
 ### Contributors
 
-A total of 7 people contributed to this release. Thank you to the following contributors:
+A total of 8 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
--   GeoDaoyu
+-   Geo Daoyu
+-   Krishna Awasthi
 -   Muhammad Haris
 -   Neeraj Pathak
 -   Philipp Burckhardt
