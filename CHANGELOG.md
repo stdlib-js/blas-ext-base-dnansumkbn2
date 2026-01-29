@@ -2,9 +2,9 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.3.0">
 
-## Unreleased (2025-12-15)
+## 0.3.0 (2026-01-29)
 
 <section class="features">
 
@@ -46,6 +46,7 @@ A total of 3 issues were closed in this release:
 
 <details>
 
+-   [`2035f34`](https://github.com/stdlib-js/stdlib/commit/2035f344a1a469278042b7532f034dc6119933b3) - **docs:** add function documentation _(by Athan Reines)_
 -   [`b4642cd`](https://github.com/stdlib-js/stdlib/commit/b4642cd82a1263bef638e317f251008053a10308) - **bench:** refactor to use dynamic memory allocation in `blas/ext/base/dnansumkbn2` [(#8935)](https://github.com/stdlib-js/stdlib/pull/8935) _(by Krishna Awasthi)_
 -   [`3192ef5`](https://github.com/stdlib-js/stdlib/commit/3192ef5e908c2ac107edf9ac4a4c92bd2997aa67) - **chore:** fix C lint errors [(#7646)](https://github.com/stdlib-js/stdlib/pull/7646) _(by Geo Daoyu)_
 -   [`b7ebe14`](https://github.com/stdlib-js/stdlib/commit/b7ebe14a38ddc3ccce67834db16835f420431494) - **feat:** add `blas/ext/base/wasm/dnansumkbn2` [(#5735)](https://github.com/stdlib-js/stdlib/pull/5735) _(by Shabareesh Shetty, Athan Reines, JoyBoy, stdlib-bot)_
